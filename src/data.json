@@ -1,0 +1,183 @@
+[
+    {
+        "id": 1,
+        "name": "Aatrox",
+        "img": ["assets\Images\Aatrox_0_Old.jpg", "public\assets\Images\Aatrox_1.jpg", "public\assets\Images\Aatrox_2.jpg"],
+        "click": false
+    },
+    {
+        "id": 2,
+        "name": "Ahri",
+        "img": ["public\assets\Images\Ahri_0_Old.jpg", "public\assets\Images\Ahri_3.jpg", "public\assets\Images\Ahri_4.jpg", "public\assets\Images\Ahri_7.jpg"],
+        "click": false
+    },
+    {
+        "id": 3,
+        "name": "Akali",
+        "img": ["public\assets\Images\Akali_0_Old.jpg", "public\assets\Images\Akali_1_Oldest.jpg", "public\assets\Images\Akali_4_Old.jpg", "public\assets\Images\Akali_5_Old.jpg", "public\assets\Images\Akali_6_Oldest.jpg"],
+        "click": false
+    },
+    {
+        "id": 4,
+        "name": "Alistar",
+        "img": ["public\assets\Images\Alistar_0.jpg", "public\assets\Images\Alistar_2.jpg", "public\assets\Images\Alistar_4.jpg", "public\assets\Images\Alistar_10.jpg"],
+        "click": false
+    },
+    {
+        "id": 5,
+        "name": "Amumu",
+        "img": ["public\assets\Images\Amumu_0.jpg", "public\assets\Images\Amumu_1.jpg", "public\assets\Images\Amumu_6.jpg", "public\assets\Images\Amumu_7.jpg"],
+        "click": false
+    },
+    {
+        "id": 6,
+        "name": "Annie",
+        "img": ["public\assets\Images\Annie_0_Old.jpg", "public\assets\Images\Annie_2.jpg", "public\assets\Images\Annie_3_Old.jpg", "public\assets\Images\Annie_6.jpg"],
+        "click": false
+    },
+    {
+        "id": 7,
+        "name": "Ashe",
+        "img": ["public\assets\Images\Ashe_0.jpg", "public\assets\Images\Ashe_3.jpg", "public\assets\Images\Ashe_4_Old.jpg", "public\assets\Images\Ashe_6.jpg", "public\assets\Images\Ashe_8.jpg"],
+        "click": false
+    },
+    {
+        "id": 8,
+        "name": "Blitzcrank",
+        "img": ["public\assets\Images\Blitzcrank_0.jpg", "public\assets\Images\Blitzcrank_5.jpg", "public\assets\Images\Blitzcrank_6.jpg", "public\assets\Images\Blitzcrank_7.jpg", "public\assets\Images\Blitzcrank_11.jpg"],
+        "click": false
+    },
+    {
+        "id": 9,
+        "name": "Braum",
+        "img": ["public\assets\Images\Braum_0.jpg", "public\assets\Images\Braum_1.jpg", "public\assets\Images\Braum_2.jpg", "public\assets\Images\Braum_11.jpg"],
+        "click": false
+    },
+    {
+        "id": 10,
+        "name": "Caitlyn",
+        "img": ["public\assets\Images\Caitlyn_1.jpg", "public\assets\Images\Caitlyn_5.jpg", "public\assets\Images\Caitlyn_1.jpg", "public\assets\Images\Caitlyn_11.jpg"],
+        "click": false
+    },
+    {
+        "id": 11,
+        "name": "Chogath",
+        "img": ["public\assets\Images\Chogath_0_Old.jpg", "public\assets\Images\Chogath_2.jpg", "public\assets\Images\Chogath_4.jpg", "public\assets\Images\Chogath_5.jpg"],
+        "click": false
+    },
+    {
+        "id": 12,
+        "name": "Corki",
+        "img": ["public\assets\Images\Corki_0.jpg", "public\assets\Images\Corki_2.jpg", "public\assets\Images\Corki_5.jpg", "public\assets\Images\Corki_6.jpg", "public\assets\Images\Corki_8.jpg"],
+        "click": false
+    },
+    {
+        "id": 13,
+        "name": "Gnar",
+        "img": ["public\assets\Images\Gnar_0.jpg", "public\assets\Images\Gnar_1.jpg", "public\assets\Images\Gnar_2.jpg", "public\assets\Images\Gnar_13.jpg"],
+        "click": false
+    },
+    {
+        "id": 14,
+        "name": "Gragas",
+        "img": ["public\assets\Images\Gragas_0_Old.jpg", "public\assets\Images\Gragas_1.jpg", "public\assets\Images\Gragas_3.jpg", "public\assets\Images\Gragas_4.jpg", "public\assets\Images\Gragas_6.jpg"],
+        "click": false
+    },
+    {
+        "id": 15,
+        "name": "Graves",
+        "img": ["public\assets\Images\Graves_0.jpg", "public\assets\Images\Graves_3.jpg", "public\assets\Images\Graves_4.jpg", "public\assets\Images\Graves_5.jpg"],
+        "click": false
+    },
+    {
+        "id": 16,
+        "name": "Hecarim",
+        "img": ["public\assets\Images\Hecarim_0.jpg", "public\assets\Images\Hecarim_3.jpg", "public\assets\Images\Hecarim_4.jpg"],
+        "click": false
+    },
+    {
+        "id": 17,
+        "name": "Heimerdinger",
+        "img": ["public\assets\Images\Heimerdinger_0_Old.jpg", "public\assets\Images\Heimerdinger_1_Old.jpg", "public\assets\Images\Heimerdinger_3_Old.jpg", "public\assets\Images\Heimerdinger_5.jpg"],
+        "click": false
+    },
+    {
+        "id": 18,
+        "name": "Jax",
+        "img": ["public\assets\Images\Jax_0.jpg", "public\assets\Images\Jax_3_Old.jpg", "public\assets\Images\Jax_5.jpg", "public\assets\Images\Jax_6_Old.jpg"],
+        "click": false
+    },
+    {
+        "id": 19,
+        "name": "Kogma",
+        "img": ["public\assets\Images\KogMaw_0.jpg", "public\assets\Images\KogMaw_5_Old.jpg", "public\assets\Images\KogMaw_7.jpg", "public\assets\Images\KogMaw_9.jpg"],
+        "click": false
+    },
+    {
+        "id": 20,
+        "name": "Nami",
+        "img": ["public\assets\Images\Nami_0.jpg", "public\assets\Images\Nami_2.jpg", "public\assets\Images\Nami_3.jpg", "public\assets\Images\Nami_9.jpg"],
+        "click": false
+    },
+    {
+        "id": 21,
+        "name": "Nasus",
+        "img": ["public\assets\Images\Nasus_0.jpg", "public\assets\Images\Nasus_2.jpg", "public\assets\Images\Nasus_6.jpg"],
+        "click": false
+    },
+    {
+        "id": 22,
+        "name": "Nidalee",
+        "img": ["public\assets\Images\Nidalee_0.jpg", "public\assets\Images\Nidalee_4_Old.jpg", "public\assets\Images\Nidalee_5_Old.jpg", "public\assets\Images\Nidalee_6.jpg"],
+        "click": false
+    },
+    {
+        "id": 23,
+        "name": "Nunu",
+        "img": ["public\assets\Images\Nunu_0_Old.jpg", "public\assets\Images\Nunu_2_Old.jpg", "public\assets\Images\Nunu_3_Old.jpg", "public\assets\Images\Nunu_4_Old.jpg"],
+        "click": false
+    },
+    {
+        "id": 24,
+        "name": "Riven",
+        "img": ["public\assets\Images\Riven_0.jpg", "public\assets\Images\Riven_1.jpg", "public\assets\Images\Riven_3.jpg", "public\assets\Images\Riven_6.jpg", "public\assets\Images\Riven_7.jpg"],
+        "click": false
+    },
+    {
+        "id": 25,
+        "name": "Shen",
+        "img": ["public\assets\Images\Shen_0_Oldest.jpg", "public\assets\Images\Shen_2_Oldest.jpg", "public\assets\Images\Shen_3_Oldest.jpg", "public\assets\Images\Shen_4_Old.jpg"],
+        "click": false
+    },
+    {
+        "id": 26,
+        "name": "Singed",
+        "img": ["public\assets\Images\Singed_0.jpg", "public\assets\Images\Singed_4.jpg", "public\assets\Images\Singed_5.jpg", "public\assets\Images\Singed_6.jpg"],
+        "click": false
+    },
+    {
+        "id": 27,
+        "name": "Siver",
+        "img": ["public\assets\Images\Sivir_0.jpg", "public\assets\Images\Sivir_5_Oldest.jpg", "public\assets\Images\Sivir_9.jpg", "public\assets\Images\Sivir_10.jpg"],
+        "click": false
+    },
+    {
+        "id": 28,
+        "name": "Sona",
+        "img": ["public\assets\Images\Sona_0.jpg", "public\assets\Images\Sona_2.jpg", "public\assets\Images\Sona_5.jpg", "public\assets\Images\Sona_6.jpg"],
+        "click": false
+    },
+    {
+        "id": 29,
+        "name": "Teemo",
+        "img": ["public\assets\Images\Teemo_0.jpg", "public\assets\Images\Teemo_4.jpg", "public\assets\Images\Teemo_5_Oldest.jpg", "public\assets\Images\Teemo_6.jpg", "public\assets\Images\Teemo_14.jpg"],
+        "click": false
+    },
+    {
+        "id": 30,
+        "name": "Ziggs",
+        "img": ["public\assets\Images\Ziggs_0.jpg", "public\assets\Images\Ziggs_1.jpg", "public\assets\Images\Ziggs_3.jpg", "public\assets\Images\Ziggs_6.jpg"],
+        "click": false
+    }
+
+]
