@@ -7,7 +7,7 @@
     "react-dom": "^16.7.0",
     "react-scripts": "2.1.3"
   },
-  "homepage" : "http://myname.github.io/myapp",
+  "homepage" : "http://RCH92.github.io/React_game_LOL",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
