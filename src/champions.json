@@ -1,0 +1,183 @@
+[
+    {
+        "id": 1,
+        "name": "Aatrox",
+        "img": ["assets/Images/Aatrox_0_Old.jpg", "/assets/Images/Aatrox_1.jpg", "/assets/Images/Aatrox_2.jpg"],
+        "click": false
+    },
+    {
+        "id": 2,
+        "name": "Ahri",
+        "img": ["/assets/Images/Ahri_0_Old.jpg", "/assets/Images/Ahri_3.jpg", "/assets/Images/Ahri_4.jpg", "/assets/Images/Ahri_7.jpg"],
+        "click": false
+    },
+    {
+        "id": 3,
+        "name": "Akali",
+        "img": ["/assets/Images/Akali_0_Old.jpg", "/assets/Images/Akali_1_Oldest.jpg", "/assets/Images/Akali_4_Old.jpg", "/assets/Images/Akali_5_Old.jpg", "/assets/Images/Akali_6_Oldest.jpg"],
+        "click": false
+    },
+    {
+        "id": 4,
+        "name": "Alistar",
+        "img": ["/assets/Images/Alistar_0.jpg", "/assets/Images/Alistar_2.jpg", "/assets/Images/Alistar_4.jpg", "/assets/Images/Alistar_10.jpg"],
+        "click": false
+    },
+    {
+        "id": 5,
+        "name": "Amumu",
+        "img": ["/assets/Images/Amumu_0.jpg", "/assets/Images/Amumu_1.jpg", "/assets/Images/Amumu_6.jpg", "/assets/Images/Amumu_7.jpg"],
+        "click": false
+    },
+    {
+        "id": 6,
+        "name": "Annie",
+        "img": ["/assets/Images/Annie_0_Old.jpg", "/assets/Images/Annie_2.jpg", "/assets/Images/Annie_3_Old.jpg", "/assets/Images/Annie_6.jpg"],
+        "click": false
+    },
+    {
+        "id": 7,
+        "name": "Ashe",
+        "img": ["/assets/Images/Ashe_0.jpg", "/assets/Images/Ashe_3.jpg", "/assets/Images/Ashe_4_Old.jpg", "/assets/Images/Ashe_6.jpg", "/assets/Images/Ashe_8.jpg"],
+        "click": false
+    },
+    {
+        "id": 8,
+        "name": "Blitzcrank",
+        "img": ["/assets/Images/Blitzcrank_0.jpg", "/assets/Images/Blitzcrank_5.jpg", "/assets/Images/Blitzcrank_6.jpg", "/assets/Images/Blitzcrank_7.jpg", "/assets/Images/Blitzcrank_11.jpg"],
+        "click": false
+    },
+    {
+        "id": 9,
+        "name": "Braum",
+        "img": ["/assets/Images/Braum_0.jpg", "/assets/Images/Braum_1.jpg", "/assets/Images/Braum_2.jpg", "/assets/Images/Braum_11.jpg"],
+        "click": false
+    },
+    {
+        "id": 10,
+        "name": "Caitlyn",
+        "img": ["/assets/Images/Caitlyn_0_Old.jpg", "/assets/Images/Caitlyn_1.jpg", "/assets/Images/Caitlyn_5.jpg", "/assets/Images/Caitlyn_1.jpg", "/assets/Images/Caitlyn_11.jpg"],
+        "click": false
+    },
+    {
+        "id": 11,
+        "name": "Chogath",
+        "img": ["/assets/Images/Chogath_0_Old.jpg", "/assets/Images/Chogath_2.jpg", "/assets/Images/Chogath_4.jpg", "/assets/Images/Chogath_5.jpg"],
+        "click": false
+    },
+    {
+        "id": 12,
+        "name": "Corki",
+        "img": ["/assets/Images/Corki_0.jpg", "/assets/Images/Corki_2.jpg", "/assets/Images/Corki_5.jpg", "/assets/Images/Corki_6.jpg", "/assets/Images/Corki_8.jpg"],
+        "click": false
+    },
+    {
+        "id": 13,
+        "name": "Gnar",
+        "img": ["/assets/Images/Gnar_0.jpg", "/assets/Images/Gnar_1.jpg", "/assets/Images/Gnar_2.jpg", "/assets/Images/Gnar_13.jpg"],
+        "click": false
+    },
+    {
+        "id": 14,
+        "name": "Gragas",
+        "img": ["/assets/Images/Gragas_0_Old.jpg", "/assets/Images/Gragas_1.jpg", "/assets/Images/Gragas_3.jpg", "/assets/Images/Gragas_4.jpg", "/assets/Images/Gragas_6.jpg"],
+        "click": false
+    },
+    {
+        "id": 15,
+        "name": "Graves",
+        "img": ["/assets/Images/Graves_0.jpg", "/assets/Images/Graves_3.jpg", "/assets/Images/Graves_4.jpg", "/assets/Images/Graves_5.jpg"],
+        "click": false
+    },
+    {
+        "id": 16,
+        "name": "Hecarim",
+        "img": ["/assets/Images/Hecarim_0.jpg", "/assets/Images/Hecarim_3.jpg", "/assets/Images/Hecarim_4.jpg"],
+        "click": false
+    },
+    {
+        "id": 17,
+        "name": "Heimerdinger",
+        "img": ["/assets/Images/Heimerdinger_0_Old.jpg", "/assets/Images/Heimerdinger_1_Old.jpg", "/assets/Images/Heimerdinger_3_Old.jpg", "/assets/Images/Heimerdinger_5.jpg"],
+        "click": false
+    },
+    {
+        "id": 18,
+        "name": "Jax",
+        "img": ["/assets/Images/Jax_0.jpg", "/assets/Images/Jax_3_Old.jpg", "/assets/Images/Jax_5.jpg", "/assets/Images/Jax_6_Old.jpg"],
+        "click": false
+    },
+    {
+        "id": 19,
+        "name": "Kogma",
+        "img": ["/assets/Images/KogMaw_0.jpg", "/assets/Images/KogMaw_5_Old.jpg", "/assets/Images/KogMaw_7.jpg", "/assets/Images/KogMaw_9.jpg"],
+        "click": false
+    },
+    {
+        "id": 20,
+        "name": "Nami",
+        "img": ["/assets/Images/Nami_0.jpg", "/assets/Images/Nami_2.jpg", "/assets/Images/Nami_3.jpg", "/assets/Images/Nami_9.jpg"],
+        "click": false
+    },
+    {
+        "id": 21,
+        "name": "Nasus",
+        "img": ["/assets/Images/Nasus_0.jpg", "/assets/Images/Nasus_2.jpg", "/assets/Images/Nasus_6.jpg"],
+        "click": false
+    },
+    {
+        "id": 22,
+        "name": "Nidalee",
+        "img": ["/assets/Images/Nidalee_0.jpg", "/assets/Images/Nidalee_4_Old.jpg", "/assets/Images/Nidalee_5_Old.jpg", "/assets/Images/Nidalee_6.jpg"],
+        "click": false
+    },
+    {
+        "id": 23,
+        "name": "Nunu",
+        "img": ["/assets/Images/Nunu_0_Old.jpg", "/assets/Images/Nunu_2_Old.jpg", "/assets/Images/Nunu_3_Old.jpg", "/assets/Images/Nunu_4_Old.jpg"],
+        "click": false
+    },
+    {
+        "id": 24,
+        "name": "Riven",
+        "img": ["/assets/Images/Riven_0.jpg", "/assets/Images/Riven_1.jpg", "/assets/Images/Riven_3.jpg", "/assets/Images/Riven_6.jpg", "/assets/Images/Riven_7.jpg"],
+        "click": false
+    },
+    {
+        "id": 25,
+        "name": "Shen",
+        "img": ["/assets/Images/Shen_0_Oldest.jpg", "/assets/Images/Shen_2_Oldest.jpg", "/assets/Images/Shen_3_Oldest.jpg", "/assets/Images/Shen_4_Old.jpg"],
+        "click": false
+    },
+    {
+        "id": 26,
+        "name": "Singed",
+        "img": ["/assets/Images/Singed_0.jpg", "/assets/Images/Singed_4.jpg", "/assets/Images/Singed_5.jpg", "/assets/Images/Singed_6.jpg"],
+        "click": false
+    },
+    {
+        "id": 27,
+        "name": "Siver",
+        "img": ["/assets/Images/Sivir_0.jpg", "/assets/Images/Sivir_5_Oldest.jpg", "/assets/Images/Sivir_9.jpg", "/assets/Images/Sivir_10.jpg"],
+        "click": false
+    },
+    {
+        "id": 28,
+        "name": "Sona",
+        "img": ["/assets/Images/Sona_0.jpg", "/assets/Images/Sona_2.jpg", "/assets/Images/Sona_5.jpg", "/assets/Images/Sona_6.jpg"],
+        "click": false
+    },
+    {
+        "id": 29,
+        "name": "Teemo",
+        "img": ["/assets/Images/Teemo_0.jpg", "/assets/Images/Teemo_4.jpg", "/assets/Images/Teemo_5_Oldest.jpg", "/assets/Images/Teemo_6.jpg", "/assets/Images/Teemo_14.jpg"],
+        "click": false
+    },
+    {
+        "id": 30,
+        "name": "Ziggs",
+        "img": ["/assets/Images/Ziggs_0.jpg", "/assets/Images/Ziggs_1.jpg", "/assets/Images/Ziggs_3.jpg", "/assets/Images/Ziggs_6.jpg"],
+        "click": false
+    }
+
+]

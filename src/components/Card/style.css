@@ -1,0 +1,15 @@
+.card {
+    width: 100px;
+    height: 150px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 10px 10px;
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+}
+.card:hover {
+    
+    box-shadow: 0px 0px 80px rgba(250, 203, 47, 0.561), 0 0px 15px rgba(231, 255, 20, 0.555);
+    transition: 0.1s;
+    cursor: url("/assets/Images/blitz_hand_square64.png"), auto;
+  }
+  

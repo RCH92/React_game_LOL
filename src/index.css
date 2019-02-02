@@ -6,6 +6,8 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /* background-image: url("/assets/Images/Vertical_mid_lane.jpg"); */
+  /* cursor: url(/assets/Images/blitz_hand.png), auto; */
 }
 
 code {

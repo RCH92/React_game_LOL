@@ -1,0 +1,83 @@
+.navbar {
+    z-index: 99;
+    min-height: 45px;
+    background:#004e66;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    white-space: nowrap;
+    box-shadow: 0 14px 28px rgba(49, 180, 255, 0.25), 0 10px 10px rgba(32, 248, 86, 0.22);
+}
+.navbar ul{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 0px;
+}
+.navbar li {
+    width: 33%;
+    box-sizing: border-box;
+    padding:0px 10px;
+    text-align: center;
+    display: inline-block;
+}
+.navbar a {
+    
+    color:#fcbe32;
+    font-weight: 900;
+    text-decoration: none;
+    margin-left: 40px;
+  }
+.score{
+    color:#00dffc;
+    
+}
+.top{
+    color:#f1404c;
+}
+.blitzIcon{
+    
+    height: 50px;
+    width: 50px;
+    display: block;
+    position: absolute;
+    
+    left: 0;
+    top: 0;
+    padding: auto;
+    
+    z-index: -1;
+}
+.gameTitle {
+    display: flex;
+    flex-direction: row;
+}
+.titleSpan {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.difficulty {
+    width: 50px;
+    height: 50px;
+    margin:-16px 0px;
+    justify-self: flex-end;
+}
+.ez:hover{
+    cursor: url("/assets/Images/easy_poro64.png") 25 15, auto;
+    border-radius: 50%;
+    background:#00dffc;
+}
+.hard:hover{
+    cursor: url("/assets/Images/hard_poro64.png") 25 15, auto;
+    border-radius: 50%;
+    background:#f1404c;
+    
+}
+#difficultyBox {
+     display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    
+}
