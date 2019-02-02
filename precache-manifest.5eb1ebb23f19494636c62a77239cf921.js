@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/React_game_LOL/static/js/runtime~main.31b28887.js"
   },
   {
-    "revision": "bfe91d1333e77137dc2d",
-    "url": "/React_game_LOL/static/js/main.bfe91d13.chunk.js"
+    "revision": "5fa99f85d7e6cdbb13e1",
+    "url": "/React_game_LOL/static/js/main.5fa99f85.chunk.js"
   },
   {
     "revision": "46b1084bfdcac49c9b0e",
     "url": "/React_game_LOL/static/js/1.46b1084b.chunk.js"
   },
   {
-    "revision": "bfe91d1333e77137dc2d",
-    "url": "/React_game_LOL/static/css/main.d4e4a23f.chunk.css"
+    "revision": "5fa99f85d7e6cdbb13e1",
+    "url": "/React_game_LOL/static/css/main.11beab29.chunk.css"
   },
   {
-    "revision": "e5a3fd95df602f5beec4427eb4194c0c",
+    "revision": "caf4a6447d35b386249cff46d93f6ac1",
     "url": "/React_game_LOL/index.html"
   }
 ];
